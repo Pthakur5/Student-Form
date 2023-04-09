@@ -1,0 +1,26 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap'); 
+
+.container{
+    margin-top:30px;
+}
+
+.btn-continer{
+    display:flex;
+    justify-content: center;
+    
+}
+.topnav-centered a{
+ 
+  
+  position: relative;
+    top: 0;
+    font-size: 30px;
+    left: 42%;
+    transform: none;
+}
+.btn{
+   margin-left:20px;
+   margin-right:20px;
+}
